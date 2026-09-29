@@ -18,8 +18,11 @@ I'm an Information Systems student (cybersecurity emphasis) at Utah State, gradu
 ### Tools I use
 
 **Languages:** Python, SQL/PostgreSQL, JavaScript/TypeScript, C#
+
 **Infrastructure:** Linux, Proxmox, Docker, Tailscale, Pi-hole, Active Directory
+
 **Dev:** FastAPI, REST APIs, Git, pytest
+
 **Data:** Tableau (Desktop Specialist certified), Excel
 
 ### Reach out
